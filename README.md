@@ -47,4 +47,6 @@ print(f"Hola {nombre}")
 > Esto es una cita
 
 
-![](images/)
+![](images/github.png)
+
+[Enlace al archivo nuevo](archivo_nuevo.md)
